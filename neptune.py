@@ -1,13 +1,4 @@
-#######################################################################
-#           ___                       ______            __            #
-#          /   | __  ___________ _   /_  __/___  ____  / /____        #
-#         / /| |/ / / / ___/ __ `/    / / / __ \/ __ \/ / ___/        #
-#        / ___ / /_/ / /  / /_/ /    / / / /_/ / /_/ / (__  )         #
-#       /_/  |_\__,_/_/   \__,_/    /_/  \____/\____/_/____/          #
-#                       https://auratools.xyz/                        #
-#                    https://discord.gg/auratools                     #
-#                            Neptune Free                             #
-#######################################################################
+
               
 from src import *
 from src.utils import *
@@ -26,7 +17,7 @@ from src.skidslookherelol.replyspam import *
 import sys
 
 clear()
-settitle("Neptune [Free] - .gg/auratools")
+settitle("Serenity [Private] - https://discord.gg/ArfGgxae")
 
 def handler(option):
     actions = {
