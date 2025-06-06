@@ -1,13 +1,4 @@
-#######################################################################
-#           ___                       ______            __            #
-#          /   | __  ___________ _   /_  __/___  ____  / /____        #
-#         / /| |/ / / / ___/ __ `/    / / / __ \/ __ \/ / ___/        #
-#        / ___ / /_/ / /  / /_/ /    / / / /_/ / /_/ / (__  )         #
-#       /_/  |_\__,_/_/   \__,_/    /_/  \____/\____/_/____/          #
-#                       https://auratools.xyz/                        #
-#                    https://discord.gg/auratools                     #
-#                            Neptune Free                             #
-#######################################################################
+
               
 from src import *
 from src.utils import *
@@ -18,31 +9,7 @@ from src.utils.moreutils import *
 import time
 import threading
 
-# skids going to love this 💀
 
-# this is encrypted with an anti-skid mechanism
-# 1. creating comments, so that i can distract you and waste your time
-# 2. naming my functions weird. you never gonna know what fucking "freshlymadeproductfromchina" is, unless you know a bit of python, or have a brain i guess
-# - but you wouldnt be skidding if you had a brain or knew python. right?
-# eh, cant really stop you
-# giv credits ig
-# thats motivation, wtf
-# why am i motivating you
-# why are you still reading this
-# ive wasted my time aswell
-# am i trolling myself?
-# am i going crazy?
-# crazy?
-# Rocks, they're crazy. I used to be crazy once. The locked me in a rubber room with rubber rocks. Oh well. That's life. Life is like a 
-# magazine. It only cost $0.50. 50 cents? Rats! Rats are as small as rocks. Rocks, they're crazy... I used to be crazy once...
-# Rocks, they're crazy. I used to be crazy once. The locked me in a rubber room with rubber rocks. Oh well. That's life. Life is like a 
-# magazine. It only cost $0.50. 50 cents? Rats! Rats are as small as rocks. Rocks, they're crazy... I used to be crazy once...
-# Rocks, they're crazy. I used to be crazy once. The locked me in a rubber room with rubber rocks. Oh well. That's life. Life is like a 
-# magazine. It only cost $0.50. 50 cents? Rats! Rats are as small as rocks. Rocks, they're crazy... I used to be crazy once...
-# Rocks, they're crazy. I used to be crazy once. The locked me in a rubber room with rubber rocks. Oh well. That's life. Life is like a 
-# magazine. It only cost $0.50. 50 cents? Rats! Rats are as small as rocks. Rocks, they're crazy... I used to be crazy once...
-# Rocks, they're crazy. I used to be crazy once. The locked me in a rubber room with rubber rocks. Oh well. That's life. Life is like a 
-# magazine. It only cost $0.50. 50 cents? Rats! Rats are as small as rocks. Rocks, they're crazy... I used to be crazy once...
 
 def mocktext(text):
     start_upper = random.choice([True, False])
