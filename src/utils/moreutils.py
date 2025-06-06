@@ -1,13 +1,4 @@
-#######################################################################
-#           ___                       ______            __            #
-#          /   | __  ___________ _   /_  __/___  ____  / /____        #
-#         / /| |/ / / / ___/ __ `/    / / / __ \/ __ \/ / ___/        #
-#        / ___ / /_/ / /  / /_/ /    / / / /_/ / /_/ / (__  )         #
-#       /_/  |_\__,_/_/   \__,_/    /_/  \____/\____/_/____/          #
-#                       https://auratools.xyz/                        #
-#                    https://discord.gg/auratools                     #
-#                            Neptune Free                             #
-#######################################################################
+
               
 from src import *
 from src.utils import *
@@ -68,19 +59,7 @@ headers = {
     'X-Super-Properties': Discord.get_x_super_properties()
 }
 
-def discord():
-    webbrowser.open('https://discord.gg/auratools')
 
-def website():
-    webbrowser.open('https://auratools.xyz/')
-
-def github():
-    webbrowser.open('https://github.com/auratools')
-
-def premium():
-    print(f"                        {w}[{cs[1]}~{w}] {cs[1]}This is a premium only feature")
-    time.sleep(1)
-    webbrowser.open('https://auratools.xyz/')
     
 def getrandomproxy():
     prox = random.choice(proxies)
